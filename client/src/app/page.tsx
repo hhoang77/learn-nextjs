@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li>Save and see your changes instantly.</li>
-          <li>Save and see your changes instantly33333.</li>
+          <li>Save and see your changes instantly3333355555555.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
